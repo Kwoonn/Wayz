@@ -1,5 +1,5 @@
 # Wayz
-![Wayz](https://i.ibb.co/mCyb0HR/1694985929455.jpg)
+![Wayz](https://cdn.discordapp.com/attachments/985062636762837032/1153088936185446452/wayz-banner.jpg)
 It is a multi-purpose and intuitive bot that aims to be useful, offering various features and commands
 
 ## Support
