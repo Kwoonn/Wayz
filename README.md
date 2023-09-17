@@ -1,5 +1,5 @@
 # Wayz
-![Wayz](https://i.ibb.co/mCyb0HR/1694985929455.jpg)
+## ![Wayz](https://i.ibb.co/mCyb0HR/1694985929455.jpg)
 It is a multi-purpose and intuitive bot that aims to be useful, offering various features and commands
 
 ## Support
