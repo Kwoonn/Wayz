@@ -1,5 +1,5 @@
 # Wayz
-![Wayz](https://cdn.discordapp.com/attachments/985062636762837032/1153088936185446452/wayz-banner.jpg)
+![Wayz](https://media.discordapp.net/attachments/985062636762837032/1153591154768609300/1695107936536.jpg)
 
 ### **A bot in English and preferred by more than 70 servers**
 
