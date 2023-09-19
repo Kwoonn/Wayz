@@ -9,7 +9,7 @@ We are the first to implement new Discord features and build innovative systems 
 
 To know the list of commands, it is as simple as writing `,help` and navigating the dynamic menu.
 
-### **¿Qué esperas para comenzar nuestra aventura?**
+### **What are you waiting for to start our adventure?**
 
 [Invite me to your server and have the best quality of entertainment, moderation and among many things you can imagine.](https://discord.com/api/oauth2/authorize?client_id=866604832957136918&scope=bot+applications.commands&permissions=8)
 ## Support
