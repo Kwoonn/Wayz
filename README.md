@@ -14,4 +14,4 @@ To know the list of commands, it is as simple as writing `,help` and navigating 
 [Invite me to your server and have the best quality of entertainment, moderation and among many things you can imagine.](https://discord.com/api/oauth2/authorize?client_id=866604832957136918&scope=bot+applications.commands&permissions=8)
 ## Support
 **Our official support server: [Link](https://discord.com/invite/2jZE4VCA7F)**
-> Created by [gxdz!](https://discord.com/users/841131506549522463)
+> Created by [Kwoon.dev!](https://discord.com/users/841131506549522463)
