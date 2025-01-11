@@ -1,7 +1,7 @@
 # Wayz
-![Wayz](https://media.discordapp.net/attachments/985062636762837032/1153591154768609300/1695107936536.jpg)
+![Wayz](https://i.ibb.co/S6hjXgL/cartel.jpg)
 
-### **A bot in English and preferred by more than 85 servers**
+### **A bot in English and preferred by more than +100 servers**
 
 Wayz is a new bot whose main language is English. With a wide variety of commands focused mainly on entertainment, it seeks to encourage and ensure activity on your server.
 
